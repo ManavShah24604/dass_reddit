@@ -1,0 +1,36 @@
+.cls:hover{
+    background-color: red;
+    color: black;
+    /* color: darkblue; */
+    border: solid darkturquoise 2px;
+}
+
+
+.cls
+{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: 'Caveat', cursive;
+  
+}
+.newclsnavbar
+{
+  font-weight: bold;
+}
+.newclsnavbar:hover
+{
+  font-weight: bolder;
+}
+
+
+.logoutcls
+{
+  position: absolute;
+  right :1%;
+  /* top:3%; */
+}

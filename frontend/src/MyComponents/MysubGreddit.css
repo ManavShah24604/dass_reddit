@@ -1,0 +1,30 @@
+.box22 {
+    width: 40%;
+    margin: 4%;
+    height: 20%;
+    background-color:aquamarine;
+    border: 2px solid blue;
+    text-align: center;
+    padding: 25px;
+    float: left;
+  }
+  
+  .table22 {
+    margin: 0 auto;
+    border: 1px solid black;
+
+  }
+  
+  .tdcls {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+  }
+  .headcls
+  {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    font-size: x-large;
+  }
+  

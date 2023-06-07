@@ -1,0 +1,126 @@
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.csscls
+{
+  background-color:cornflowerblue;
+}
+
+.bg-black {
+  background: #000;
+}
+.thumbsup
+{
+  margin: 2%;
+  font-size:x-large;
+}
+
+.thumbsdown
+{
+  margin: 2%;
+  font-size: x-large;
+}
+
+.thumbsup:hover
+{
+  margin: 2%;
+  background-color:lightgreen;
+  font-size: xx-large;
+}
+.thumbsdown:hover
+{
+  margin: 2%;
+  background-color: red;
+  font-size: xx-large;
+}
+
+.skill-block {
+  width: 30%;
+}
+.tblcls
+{
+  text-align: center;
+}
+.comments
+{
+  font-weight: bold;
+  color: chocolate;
+  /* margin-bottom: '20%'; */
+}
+@media (min-width: 991px) and (max-width:1200px) {
+  .skill-block {
+    padding: 32px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .skill-block {
+    padding: 56px !important;
+  }
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: red;
+  opacity: 1; /* Firefox */
+}
+
+
+table,tr,td,th {
+  /* border: black solid 2px ; */
+  text-align: center;
+}
+td,th
+{
+  /* border: white solid 2px ; */
+  width: 8%;
+}
+.tablecls
+{
+  /* border: white solid 2px ; */
+  width: 100%;
+  margin-left: 10%;
+}
+
+input[type=text], input[type=email], input[type=number],input[type=submit] {
+  /* margin-left: 3%; */
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit].hover
+{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: red;
+}
+
+.formcls
+{
+  margin-left: 5%;
+}
+.btn2 {
+  padding: 10px 20px;
+  background-color: greenyellow;
+  color: red;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
