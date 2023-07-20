@@ -29,8 +29,6 @@ All routes protected if user not authenticated.
 
 Logout option implemented.
 
-# Bonus Implemented here of Google Authentication
-Used gapi-script, since gapi script is old, it does not work with docker but without docker server-side authentication has been done, extra details are not asked from the user.
 
 # *Dashboard : Navbar*
 
