@@ -172,18 +172,9 @@ New URLs have been created wherever asked to.
 
 # **Bonus**
 
-1) Chat using Socket IO
+1) Fuzzy Search
 
-2) Image Upload
+2) Stats using graphs
 
-3) Fuzzy Search
+3) KeyBoard Shortcuts
 
-4) Email Notif
-
-5) Stats using graphs
-
-6) GAuth Server Side Auth
-
-7) KeyBoard Shortcuts
-
-8) CAS Auth Buildup complete (partial)
