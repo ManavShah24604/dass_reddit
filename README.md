@@ -88,7 +88,6 @@ Options to block,ignore,delete report with all the required functionalities.
 
 Expiry date of report in backend.
 
-# Bonus implemented here of sending email notif of action taken.
 
 # *All Sub Greddiits Page*
 
