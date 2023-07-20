@@ -23,8 +23,6 @@ Encrypted password stored in db using bcrypt.js
 
 Once authenticated, a message is shown to a user and he is taken to the Dashboard page.
 
-JWT token has been used to carry authorization and protection of backend routes everywhere along with keeping the user logged in on computer restart or closing of tab.
-
 All routes protected if user not authenticated.
 
 Logout option implemented.
